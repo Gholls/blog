@@ -17,22 +17,22 @@
 			],
 			"tips":[
 				{
-					"type":"0",
+					"type":0,
 					"msg":"网址",
 					"tip":"https://www.gholl.com"
 				},
 				{
-					"type":"1",
+					"type":1,
 					"msg":"图片",
 					"tip":"https://www.gholl.com/xxx.png"
 				},
 				{
-					"type":"2",
+					"type":2,
 					"msg":"文字",
 					"tip":"123456"
 				},
 				{
-					"type":"3",
+					"type":3,
 					"msg":"播报密码",
 					"tip":"https://www.gholl.com"
 				}
